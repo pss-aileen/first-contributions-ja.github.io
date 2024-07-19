@@ -210,9 +210,15 @@
     "favoriteEmoji": "👳🏻‍♂️"
   },
   {
-  "name": "ogane0112",
-  "github": "https://github.com/ogane0112",
-  "favoriteColor": "#98fb98",
-  "favoriteEmoji": "🐻"
+    "name": "ogane0112",
+    "github": "https://github.com/ogane0112",
+    "favoriteColor": "#98fb98",
+    "favoriteEmoji": "🐻"
+  },
+  {
+    "name": "fire",
+    "github": "https://github.com/aaa",
+    "favoriteColor": "#990000",
+    "favoriteEmoji": "🔥"
   }
 ]
