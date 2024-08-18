@@ -190,15 +190,15 @@ GitHub 上でファイルを編集することも可能ですが、<br>
 
     `npm install`コマンドについて、より詳しい内容は、[こちら](https://qiita.com/sugurutakahashi12345/items/3cc49926faeaf25d3051)を参照してみて下さい！
       
-    - **🚧注意**)もし、あなたのローカルマシンに、Node.js がインストールされていない場合、`npm install`コマンドで、エラーが発生します。
+    - **🚧注意)もし、あなたのローカルマシンに、Node.js がインストールされていない場合、`npm install`コマンドで、エラーが発生します。**
     - その場合は、2通りの対処法があります：
-      1. `npm install`の手順を飛ばす。
+      - `npm install`の手順を飛ばす。
         - この手順を行わずとも、最低限のコントリビューション体験はできるため、難しい場合は飛ばしていただいてかまいません。
         - どのくらいの方がここで躓くか参考までに知りたいので、プルリクエストに「`npm install`がうまくいかなかった」といった内容を書いてください。
-      2. Node.js をインストールする。
+      - Node.js をインストールする。
         - 簡単にまとめると、Node.jsをインストールすると開発の際に必要なものをインストールしたり、便利なライブラリ、パッケージを利用できるようになります。
-        - その他様々なことが可能ですが、詳しくは別途お調べください。
-        - [Node.js 公式サイト](https://nodejs.org/en) / [Node.jsの開発環境を用意しよう（macOS） Progate[プロゲート]](https://prog-8.com/docs/nodejs-env) / [Node.jsの開発環境を用意しよう（Windows） Progate[プロゲート]](https://prog-8.com/docs/nodejs-env-win)
+        - 厳密に書くと、Node.jsはサーバサイドで動くJavaScriptのことですが、初めはわからないと思うので、さっくり↑のようなことができるんだな、と考えていただければと思います。
+        - [Node.js 公式サイト](https://nodejs.org/en) / [Node.jsインストール方法(macOS) Progate](https://prog-8.com/docs/nodejs-env) / [Node.jsインストール方法(Windows) Progate](https://prog-8.com/docs/nodejs-env-win)
 
   </details> 
 
