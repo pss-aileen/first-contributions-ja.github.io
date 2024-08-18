@@ -12,12 +12,6 @@
     "favoriteEmoji": "🌀"
   },
   {
-    "name": "kazzyfrog",
-    "github": "https://github.com/kazzyfrog",
-    "favoriteColor": "#98fb98",
-    "favoriteEmoji": "🐸"
-  },
-  {
     "name": "oginochihiro",
     "github": "https://github.com/first-contributions-ja",
     "favoriteColor": "#ffffff",
@@ -216,27 +210,39 @@
     "favoriteEmoji": "🐻"
   },
   {
-    "name": "test1",
-    "github": "https://github.com/ogane0112",
-    "favoriteColor": "#98fb98",
-    "favoriteEmoji": "🐻"
+    "name": "Int314",
+    "github": "https://github.com/Int314",
+    "favoriteColor": "#373C38",
+    "favoriteEmoji": "🥰"
   },
   {
-    "name": "test2",
-    "github": "https://github.com/ogane0112",
-    "favoriteColor": "#98fb98",
-    "favoriteEmoji": "🐻"
+    "name": "syn_scene",
+    "github": "https://github.com/synscean",
+    "favoriteColor": "#8ae7fb",
+    "favoriteEmoji": "🥺"
   },
   {
-    "name": "test2",
-    "github": "https://github.com/ogane0112",
-    "favoriteColor": "#98fb98",
-    "favoriteEmoji": "🐻"
+    "name": "atnuhs",
+    "github": "https://github.com/atnuhs-1",
+    "favoriteColor": "#00ced1",
+    "favoriteEmoji": "👁"
   },
   {
-    "name": "testtetetetetest",
-    "github": "https://github.com/ogane0112",
-    "favoriteColor": "#98fb98",
-    "favoriteEmoji": "🐻"
+    "name": "dws2020",
+    "github": "https://github.com/dws2020",
+    "favoriteColor": "#ffffff",
+    "favoriteEmoji": "🐼"
+  },
+  {
+    "name": "kazzyfrog",
+    "github": "https://github.com/kazzyfrog",
+    "favoriteColor": "#C6BA9F",
+    "favoriteEmoji": "🐸"
+  },
+  {
+    "name": "aki-tkcy",
+    "github": "https://github.com/aki-tkcy",
+    "favoriteColor": "#3BD5C3",
+    "favoriteEmoji": "😆"
   }
 ]
