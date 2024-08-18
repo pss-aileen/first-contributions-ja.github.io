@@ -175,9 +175,7 @@ GitHub 上でファイルを編集することも可能ですが、<br>
   ```
   npm install
   ```
-  
-<br>
-
+  <br>
   <details>
     <summary>メモ: npm install とは❓❓</summary>
 
