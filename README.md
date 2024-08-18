@@ -179,6 +179,7 @@ GitHub 上でファイルを編集することも可能ですが、<br>
   <details>
     <summary>メモ: npm install とは❓❓</summary>
 
+    <br>
     `npm install`コマンドを実行することで、<br>
     このプロジェクトに必要なライブラリ（package.json ファイルに記述されている内容）を、一括でインストールできます！
 
