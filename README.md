@@ -196,14 +196,16 @@ GitHub 上でファイルを編集することも可能ですが、<br>
 
     `npm install`コマンドについて、より詳しい内容は、[こちら](https://qiita.com/sugurutakahashi12345/items/3cc49926faeaf25d3051)を参照してみて下さい！ 
       
-    - **🚧注意)もし、あなたのローカルマシンに、Node.js がインストールされていない場合、`npm install`コマンドで、エラーが発生します。**
-    - その場合、**2通りの対処法**があります：
-      - **`npm install`の手順を飛ばす。**
-        - この手順を行わずとも、最低限のコントリビューション体験はできるため、難しい場合は飛ばしていただいてかまいません。
-        - どのくらいの方がここでつまずくか参考までに知りたいので、プルリクエストに「`npm install`がうまくいかなかった」といった報告をしていただけると大変参考になります。
-      - **Node.js をインストールする。**
-        - 以下、インストール方法が書いてあるサイトです。難しい場合、解説記事などを調べていただき、インストールしてみてください。
-        - [Node.js 公式サイト](https://nodejs.org/en) / [Node.jsインストール方法(macOS) Progate](https://prog-8.com/docs/nodejs-env) / [Node.jsインストール方法(Windows) Progate](https://prog-8.com/docs/nodejs-env-win)
+    #### 🚧注意)もし、あなたのローカルマシンに、Node.js がインストールされていない場合、`npm install`コマンドで、エラーが発生します。
+
+    その場合、**2通りの対処法**があります：
+
+    - **`npm install`の手順を飛ばす。**
+      - この手順を行わずとも、最低限のコントリビューション体験はできるため、難しい場合は飛ばしていただいてかまいません。
+      - どのくらいの方がここでつまずくか参考までに知りたいので、プルリクエストに「`npm install`がうまくいかなかった」といった報告をしていただけると大変参考になります。
+    - **Node.js をインストールする。**
+      - 以下、インストール方法が書いてあるサイトです。難しい場合、解説記事などを調べていただき、インストールしてみてください。
+      - [Node.js 公式サイト](https://nodejs.org/en) / [Node.jsインストール方法(macOS) Progate](https://prog-8.com/docs/nodejs-env) / [Node.jsインストール方法(Windows) Progate](https://prog-8.com/docs/nodejs-env-win)
 
   </details> 
 
