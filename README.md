@@ -207,7 +207,7 @@ GitHub 上でファイルを編集することも可能ですが、<br>
     - **Node.js をインストールする。**
       - 以下、インストール方法が書いてあるサイトです。難しい場合、解説記事などを調べていただき、インストールしてみてください。
       - [Node.js 公式サイト](https://nodejs.org/en) / [Node.jsインストール方法(macOS) Progate](https://prog-8.com/docs/nodejs-env) / [Node.jsインストール方法(Windows) Progate](https://prog-8.com/docs/nodejs-env-win)
-      - Node.jsについて知りたい方は [Node.jsとはなにか？なぜみんな使っているのか？ #JavaScript - Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb) や、様々な記事を確認してみてください。
+      - Node.jsについて知りたい方は [Node.jsとはなにか？なぜみんな使っているのか？ Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb) や、様々な記事を確認してみてください。
 
   </details> 
 
